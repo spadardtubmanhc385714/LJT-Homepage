@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Junteng Liu
-
-First-year Ph.D. candidate, HKUST NLP Group, Hong Kong University of Science and Technology (HKUST)
+**Junteng Liu** — first-year Ph.D. candidate, HKUST NLP Group, Hong Kong University of Science and Technology (HKUST)
 
 Contact
 ======
